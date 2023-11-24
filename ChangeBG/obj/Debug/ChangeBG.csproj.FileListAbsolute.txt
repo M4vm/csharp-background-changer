@@ -1,0 +1,10 @@
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\bin\Debug\ChangeBG.exe.config
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\bin\Debug\ChangeBG.exe
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\bin\Debug\ChangeBG.pdb
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.Form1.resources
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.Properties.Resources.resources
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.csproj.GenerateResource.cache
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.exe
+C:\Users\Mihajlo\source\repos\ChangeBG\ChangeBG\obj\Debug\ChangeBG.pdb
